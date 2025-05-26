@@ -56,3 +56,41 @@ npm run
 
 
 npm run dev
+
+
+
+🧪 Usage
+1.Start both backend and frontend servers.
+
+2.Go to http://localhost:3000.
+
+3.Paste your code in the input section.
+
+4.Click "Review Code".
+
+5.View the AI-generated feedback and suggestions.
+
+📁 Project Structure :
+AI-Code-Reviewer/
+├── Backend/
+│   ├── server.js
+│   ├── routes/
+│   └── controllers/
+├── Frontend/
+│   ├── src/
+│   │   └── App.jsx
+
+
+🔐 Environment Variables
+Create a .env file inside the Backend/ folder: GOOGLE_GEMINI_KEY=your_gemini_api_key_here
+
+GOOGLE_GEMINI_KEY=your_gemini_api_key_here
+
+🙋‍♂️ Author
+Shubhankar Kashyap
+📧 shubhankarkashyap04@gmail.com
+🔗 www.linkedin.com/in/shubhankar-kashyap-253864266
+
+
+
+
